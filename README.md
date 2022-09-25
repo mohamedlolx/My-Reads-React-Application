@@ -1,4 +1,4 @@
-# MyReads Project
+# My-Reads Project
 
 This is a project of React Front-End which apply the library website that's show to you  3 shelves Currently Reading the shelf of the ongoing books you are now reading , Want To Read shelf which is like wish list of books you want to read in the future  and Read shelf which is the books that you had finished. 
 Also you can change  each book from shelf to another based on your state of reading. 
