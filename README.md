@@ -4,7 +4,6 @@ This is a project of React Front-End which apply the library website that's show
 Also you can change  each book from shelf to another based on your state of reading. 
 Not only you can search for new books but also you can still see the satet of books if they are in your shelf.
 
-## TL;DR
 
 To get started developing right away:
 
